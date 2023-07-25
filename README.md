@@ -39,7 +39,7 @@ To access key project documents, refer to the following links:
 <a href="/SQL Scripts/CRUD SCRIPT.sql">Testing Physical DB CRUD Script</a>
 
 ## License
-Licensed under the <a href="/LICENCE">MIT Licence</a> @Udacity
+This project is licensed under the MIT License @Udacity.
 
 ## Issues/Bugs
 If you encounter any issues or bugs, please report them on our GitHub repository.
