@@ -27,7 +27,7 @@ To access key project documents, refer to the following links:
 
 
 ##### First Excel database ABC Tech was using
-<a href="/old_hr_database_excel_sheet/old_hr_database.sql">Old Excel database file</a>
+<a href="/old_hr_database_excel_sheet/hr-dataset.xlsx">Old Excel database file</a>
 
 ##### New Database DDL Script
 <a href="/SQL Scripts/HR DATABASE DDL SCRIPT.sql">New Database DDL Script</a>
