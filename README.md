@@ -1,11 +1,13 @@
 # Desing and HR Database
 ## Project Overview
-In this project, I design, build, and populate a database for the Human Resources (HR) Department at the imaginary Tech ABC Corp, a video game company. This project started with a request from the HR Manager. From there, i designed a database using the foundational principals of data architecture that is best suited to the department's needs. i went through the steps of database architecture, creating database proposals, database entity relationship diagrams (ERD), and finally creating the database itself. This project is important, as it is a scaled-down simulation of the kind of real-world assignments data architects work on every day.
+In this project, I have undertaken the task of designing, building, and populating a comprehensive database tailored to meet the specific needs of the Human Resources (HR) Department at Tech ABC Corp, an imaginative video game company. The project was initiated in response to a request from the HR Manager to address the challenges posed by the company's rapid growth. With Tech ABC Corp expanding from a small 10-person operation to 200 employees across 5 locations in less than a year, the HR team has outgrown its current system of maintaining employee information in a spreadsheet. This project aims to create a robust database that can efficiently manage and organize all employee-related data.
+
+The process began with a thorough analysis of the department's requirements and the foundational principles of data architecture. I proceeded with the creation of database proposals, entity relationship diagrams (ERD), and eventually built the actual database itself. This project holds significant importance as it emulates real-world assignments data architects encounter regularly.
 
 ## Business Requirments
-Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scene with its new AI-powered video game console. As a result, they have gone from a small 10 person operation to 200 employees and 5 locations in under a year. HR is having trouble keeping up with the growth since they are still maintaining employee information in a spreadsheet. While that worked for ten employees, it has become increasingly cumbersome to manage as the company expands.
+Tech ABC Corp experienced a period of explosive growth with the launch of their AI-powered video game console. As a result, the company expanded rapidly, requiring HR to manage an increasing amount of employee data. The existing spreadsheet-based system that sufficed for ten employees became impractical and unwieldy. To streamline HR operations, the department sought a database solution capable of efficiently managing employee information.
 
-The HR department has request for design and build a database capable of managing their employee information.
+To access key project documents, refer to the following links:
 
 <ul>
    <li><a href="/Documents/IT Best Practices.pdf">IT Best Practices document</a></li>
@@ -40,7 +42,9 @@ The HR department has request for design and build a database capable of managin
 Licensed under the <a href="/LICENCE">MIT Licence</a> @Udacity
 
 ## Issues/Bugs
-Please open issues on github to report bugs or make feature requests
+If you encounter any issues or bugs, please report them on our GitHub repository.
 
 ## Contribution
-If you are interested in improving the code, please open an issue first to describe the task you are planning to do. For small fixes (a few lines of change) feel free to open pull requests directly.
+We welcome contributions to enhance the codebase. If you are interested in contributing, please open an issue first to describe the task you plan to undertake. For small fixes (a few lines of change), feel free to open pull requests directly. Your contributions are highly valued and appreciated.
+
+Thank you for your interest in our HR Database project!
